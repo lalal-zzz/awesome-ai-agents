@@ -4743,6 +4743,24 @@ Productivity, Coding, Workflow automation
 
 </details>
 
+## [MCP Skill Publisher](https://github.com/lalal-zzz/mcp-skill-publisher)
+Multi-platform publisher and quality auditor for MCP servers and Agent Skills
+<details>
+
+### Category
+Development, Build Tools, Framework
+
+### Description
+- A universal tool and skill that automates the complete publishing and distribution pipeline for MCP servers and Agent Skills across 9 platforms (NPM, Smithery, GitHub, cursor.directory, Dify, GPT Store, Coze, FlowGPT, PromptBase).
+- Features pre-flight compliance audit with 100-point scoring, guided optimization fixes, and automated platform-specific export generation.
+- Security-hardened with mandatory confirmation gates for file writes and external publishing.
+
+### Links
+- [GitHub](https://github.com/lalal-zzz/mcp-skill-publisher)
+- Author: [lalal-zzz](https://github.com/lalal-zzz)
+
+</details>
+
 ## [Minion AI](https://minion.ai/)
 By creator of GitHub Copilot, in waitlist stage
 <details>
